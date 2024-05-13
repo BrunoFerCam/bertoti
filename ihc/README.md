@@ -6,13 +6,13 @@ Repositório criado para a matéria de IHC (Interação Humano-Computador) do te
 -----Acerto (X) ---------- Erro ( )-----
 
 A barra de progresso de download do Google Chrome deixa explícita a exata quantidade de progresso e o tempo necessário para o download finalizar, um exemplo perfeito de Visibilidade do status ao usuário.
-<img src=”./bertoti/ihc/Heuristica1.jpg”>
+<img src=/ihc/Heuristica1.jpg>
 
 2 - Correspondência entre o sistema e o mundo real
 -----Acerto ( ) ---------- Erro (X)-----
 
 Mesmo que se trate de um site voltado a programadores, os termos encontrados em vários lugares no site Github não são intuitivos para iniciantes ou programadores sem instruções prévias. Esse tipo de termo só tem significado real para aqueles que já estãoa costumados, criando uma experiência de usuário iniciante opressiva e confusa.
-<img src=”./bertoti/ihc/Heuristica2.jpg”>
+<img src=/ihc/Heuristica2.png>
 
 3 - Controle e liberdade do usuário
 -----Acerto ( ) ---------- Erro ( )-----
