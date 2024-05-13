@@ -11,12 +11,14 @@ A barra de progresso de download do Google Chrome deixa explícita a exata quant
 2 - Correspondência entre o sistema e o mundo real
 -----Acerto ( ) ---------- Erro (X)-----
 
-Mesmo que se trate de um site voltado a programadores, os termos encontrados em vários lugares no site Github não são intuitivos para iniciantes ou programadores sem instruções prévias. Esse tipo de termo só tem significado real para aqueles que já estãoa costumados, criando uma experiência de usuário iniciante opressiva e confusa.
+Mesmo que se trate de um site voltado a programadores, os termos encontrados em vários lugares no site Github não são intuitivos para iniciantes ou programadores sem instruções prévias. Esse tipo de termo só tem significado real para aqueles que já estão acostumados, criando uma experiência de usuário iniciante opressiva e confusa. <br>
 <img src=/ihc/Heuristica2.png>
 
 3 - Controle e liberdade do usuário
------Acerto ( ) ---------- Erro ( )-----
+-----Acerto ( ) ---------- Erro (X)-----
 
+Novamente no Github, qualquer commit criado é guardado no histórico de commits, mas acessar uma versão anterior do projeto para reverter uma mudança feita por engano, por exemplo, é bem mais complicado do que parece, exigindo que o usuário clone a versão anterior e faça um commit por cima, ao invés de apenas permitir deletar um commit feito por engano.
+<img src=/ihc/Heuristica3.png>
 
 4 - Consistência e Padrões
 -----Acerto ( ) ---------- Erro ( )-----
