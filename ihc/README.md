@@ -73,4 +73,4 @@ Na página de login do site do Spotify, além de oferecer várias opções de lo
 
 O site do Github tem uma documentação tão extensa que foi criado um site separado inteiramente dedicado a ajuda e suporte com toda a documentação disponível, o Github resources. Além de toda a documentação, ele também oferece cursos inteiros focados em ensinar os usuários a usá-lo. <br>
 
-<img src=/ihc/Heuristica10.ppg>
+<img src=/ihc/Heuristica10.png>
